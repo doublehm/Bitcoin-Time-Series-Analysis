@@ -28,8 +28,7 @@ This project is built primarily in Python and utilizes the following key librari
 | :--- | :--- |
 | **Analysis/Core** | **Python 3.x**, **Jupyter Notebook** |
 | **Data Manipulation** | `pandas`, `numpy` |
-| **Time Series Modeling**| `statsmodels`, `pmdarima`, `Prophet` (if used) |
-| **Deep Learning** | `TensorFlow` or `PyTorch` (if LSTMs are used) |
+| **Time Series Modeling**| `statsmodels`, `pmdarima`|
 | **Visualization** | `matplotlib`, `seaborn` |
 
 ***
